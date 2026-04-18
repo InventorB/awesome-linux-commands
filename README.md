@@ -16,3 +16,6 @@ rsync -avz PATH USER@IP:PATH
 -z compression
 -a archive perms
 -i itemized list
+
+**Find**  
+find / -type d -name "folder"
